@@ -1,7 +1,6 @@
-# 🚗 Plaka Tespit Sistemi (License Plate Detection)
+# 🚗 License Plate Detection
 
 > **Automatic license plate detection and recognition using YOLOv4 + SRN OCR + DeepSORT tracking.**
-> Developed during internship at **Forte Bilgi İletişim Teknolojileri A.Ş.** · August 2023
 
 ---
 
